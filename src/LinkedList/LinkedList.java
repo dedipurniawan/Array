@@ -1,6 +1,6 @@
 package LinkedList;
 
-public class SingleList {
+public class LinkedList {
 	Node head, tail;
 	int size;
 	
