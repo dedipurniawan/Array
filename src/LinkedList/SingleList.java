@@ -32,7 +32,7 @@ public class SingleList {
 	
 	public void addLast(Object o) {
 		Node input = new Node();
-		input.data= o ;
+		input.data = o ;
 		if (isEmpty()) {
 			head=input;
 			tail=input;
